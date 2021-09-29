@@ -1,4 +1,4 @@
-# Hello there,
+# Hello everyone,
 
 # in this file we will look for some happyness, and I'll show you where to find it!
 
